@@ -3,6 +3,8 @@
 This was one of my homeworks for the [Logics for Computer Science][course]
 course in my first semester of collage.
 
+![Resolvents screenshot](screenshot.png)
+
 It has an interesting story. This homework, though by itself insignifiant,
 helped mark an important point in my development: proving that anything that can
 be done by a program isn't worth doing by hand.
