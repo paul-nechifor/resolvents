@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/resolvents](http://gitlab.com/paul-nechifor/resolvents).
+
+Old readme:
+
 # Resolvents
 
 This was one of my homeworks for the [Logics for Computer Science][course]
